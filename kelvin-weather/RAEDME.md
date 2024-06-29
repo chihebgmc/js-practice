@@ -15,7 +15,7 @@
 
 5.  Use this equation to calculate Fahrenheit, then store the answer in a variable named fahrenheit.
 
-    Fahrenheit = Celsius \* (9/5) + 32
+        Fahrenheit = Celsius \* (9/5) + 32
 
     In the next step we will round the number saved to fahrenheit. Choose the variable type that allows you to change its value.
 
@@ -43,7 +43,7 @@
 
     - Convert `celsius` to the [Newton](https://en.wikipedia.org/wiki/Newton_scale) scale using the equation below
 
-      Newton = Celsius \* (33/100)
+            Newton = Celsius \* (33/100)
 
     - Round down the Newton temperature using the `.floor()` method
     - Use `console.log` and string interpolation to log the temperature in `newton` to the console
